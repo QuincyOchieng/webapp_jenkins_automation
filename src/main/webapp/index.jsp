@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>This is a quick test to test deployment of a Java app</h2>
-<h3>From Github to Jenkins automatically</h3>
+<h1>Devops Project Continous Integration </h1>
+<h2>Deploy a java webapp to Jenkins and updating it automatically</h2>
 </body>
 </html>
